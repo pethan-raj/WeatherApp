@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="App.Starting.Theme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FF2d2d2d</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/thunderstorrm</item>
+        <item name="postSplashScreenTheme">@style/Theme.WeatherApplication</item>
+    </style>
+</resources>
